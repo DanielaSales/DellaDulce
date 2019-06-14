@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Login"
+        android:id="@+id/mlogin"
+        android:icon="@drawable/login"
+        />
+    <item
+        android:title="Pedido"
+        android:id="@+id/mpedido"
+        android:icon="@drawable/carrinho"
+        />
+
+    <item
+        android:title="Localização"
+        android:id="@+id/mlocalizacao"
+        android:icon="@drawable/local"
+        />
+
+</menu>

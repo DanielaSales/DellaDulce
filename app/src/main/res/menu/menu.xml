@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mlogin"
+        android:title="Login"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/mcadstro"
+        android:title="Cadastro"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/mpedido"
+        android:title="Pedido"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/mlocalizacao"
+        android:title="Localização"
+        app:showAsAction="ifRoom"/>
+
+
+
+</menu>
